@@ -1,1 +1,3 @@
-# hello-world
+# hello-world ... my first change...
+# Just like Zig Ziglar, a motivational speaker, once said,
+# “You don’t have to be great to start, but you have to start to be great.”
